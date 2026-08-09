@@ -3,7 +3,7 @@
 
 <div style="text-align: right;">
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=10&bg_color=0000)
+![Scrobbles](https://lastfm-recently-played.vercel.app/api?user=TONISUCKZ&count=1&header_style=compact_stats_only&footer_style=none&border_radius=10&bg_color=0000)
 
  ㅤㅤㅤㅤㅤㅤㅤ[ata](https://achievementcity.atabook.org)ㅤㅤㅤㅤㅤㅤ[strawpage](https://magnezone.straw.page)  <br>
 <br>
